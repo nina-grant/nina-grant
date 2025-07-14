@@ -1,16 +1,39 @@
-### Hi there 👋
+# 👋 Hi there, I’m Nina Grant
 
-<!--
-**nina-grant/nina-grant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I’m a climate scientist and science communicator currently finishing my PhD, where I work at the intersection of **climate modeling**, **geoengineering**, and **science policy**.
 
-Here are some ideas to get you started:
+🌍 I care deeply about using science to support smart, equitable climate decisions—and making complex ideas accessible to the public.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛰️ My research involves:
+- Downscaling GCM output with machine learning 📉
+- Exploring the risks of solar geoengineering aka climate intervention ☀️🛑
+- Developing tools for better data analysis & visualization in climate science 🔬📊
+
+🎙️ I also:
+- Serve as an AGU Local Science Partner 👩‍🔬🤝
+- Work for a new nonprofit focused on science communication 🗣️
+- Write and speak about climate for the public, media, and policy audiences 📰🎤
+
+---
+
+## 💻 Projects & Skills
+
+⚙️ Coding in Python:  
+`xarray`, `pandas`, `matplotlib`, `scikit-learn`, `netCDF4`, `cartopy`, and more.
+
+🛠️ Projects include:
+- Data processing scripts 🧮
+- Automating SLURM scripts and GUI interactions
+- Interactive visualizations of climate data
+- ML-based clustering of dolphin sounds 🐬
+- Building streamlined tools for regridding, time series smoothing, and more
+
+---
+
+## 🔗 Connect with Me
+
+📫 [Email me](mailto:ninagrant440@gmail.com)  
+🌐 [nina-grant-phd.com](https://nina-grant-phd.com) *(coming soon!)*   
+📚 [Google Scholar]([https://scholar.google.com](https://scholar.google.it/citations?user=Ja6cgUwAAAAJ&hl=en))
+
+Thanks for stopping by! 🚀
