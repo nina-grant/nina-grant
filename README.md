@@ -34,7 +34,7 @@
 
 📫 [Email me](mailto:ninagrant440@gmail.com)  
 🌐 [nina-grant-phd.com](https://nina-grant-phd.com) *(coming soon!)*   
-📚 [Google Scholar](https://scholar.google.it/citations?user=Ja6cgUwAAAAJ&hl=en)
+📚 [Google Scholar](https://scholar.google.it/citations?user=Ja6cgUwAAAAJ&hl=en)  
 👔 [LinkedIn](https://www.linkedin.com/in/nina-grant-2021/)
 
 Thanks for stopping by! 🚀
