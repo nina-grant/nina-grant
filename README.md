@@ -5,7 +5,7 @@
 🌍 I care deeply about using science to support smart, equitable climate decisions—and making complex ideas accessible to the public.
 
 🛰️ My research involves:
-- Downscaling GCM output with machine learning 📉
+- Downscaling global climate model output with machine learning 📉
 - Exploring the risks of solar geoengineering aka climate intervention ☀️🛑
 - Developing tools for better data analysis & visualization in climate science 🔬📊
 
@@ -32,7 +32,7 @@
 
 ## 🔗 Connect with Me
 
-📫 [Email me](mailto:ninagrant440@gmail.com)  
+📫 [Email me](mailto:nina.grant.phd@gmail.com)  
 🌐 [nina-grant-phd.com](https://nina-grant-phd.com) *(coming soon!)*   
 📚 [Google Scholar](https://scholar.google.it/citations?user=Ja6cgUwAAAAJ&hl=en)  
 👔 [LinkedIn](https://www.linkedin.com/in/nina-grant-2021/)
