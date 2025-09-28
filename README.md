@@ -22,7 +22,7 @@
 `xarray`, `pandas`, `matplotlib`, `scikit-learn`, `netCDF4`, `cartopy`, and more.
 
 🛠️ Projects include:
-- Data processing scripts 🧮
+- Data download and processing scripts 🧮
 - Automating SLURM scripts and GUI interactions
 - Interactive visualizations of climate data
 - ML-based clustering of dolphin sounds 🐬
