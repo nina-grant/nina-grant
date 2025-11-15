@@ -33,7 +33,7 @@
 ## 🔗 Connect with Me
 
 📫 [Email me](mailto:nina.grant.phd@gmail.com)  
-🌐 [nina-grant-phd.com](https://nina-grant.github.io/) *(coming soon!)*   
+🌐 [ninagrant.com](https://ninagrant.com/)   
 📚 [Google Scholar](https://scholar.google.it/citations?user=Ja6cgUwAAAAJ&hl=en)  
 👔 [LinkedIn](https://www.linkedin.com/in/nina-grant-2021/)
 
